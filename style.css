@@ -1,0 +1,8 @@
+.paragraph-3 {
+    font-style: oblique;
+    text-align: center;
+    font-size: 24px;
+}
+.paragraph-1, .paragraph-2 {
+    text-shadow: green 2px 3px 4px;
+}
